@@ -42,7 +42,7 @@ hi def link fountainTitlePage        title
 hi def link fountainSection          Underlined
 hi def link fountainSceneHeading     title
 hi def link fountainCharacter        identifier
-hi def link fountainDialogue         markdownBlockquote
+hi def link fountainDialogue         Italic
 hi def link fountainParenthetical    vimIsCommand
 hi def link fountainTransition       Question
 hi def link fountainTransitionForced Question
